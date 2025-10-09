@@ -8,6 +8,8 @@ Seeking talents to collaborate on dots.llm/vlm(pre-training、post-training and 
 
 
 
+
+
 Hiring！！！
 
 Don't hesitate to contact me, even if it's just to grab a coffee
@@ -17,7 +19,7 @@ Wechat：kaikaikoa
 Email：zhongyong@xiaohongshu.com
 
 
-Research
+Research  
 
 dots.llm1：https://github.com/rednote-hilab/dots.llm1
 
