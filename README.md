@@ -17,6 +17,9 @@ Wechat：kaikaikoa
 Email：zhongyong@xiaohongshu.com
 
 
+Research
 
+dots.llm1：https://github.com/rednote-hilab/dots.llm1
 
+dots.vlm1：https://github.com/rednote-hilab/dots.vlm1
 
