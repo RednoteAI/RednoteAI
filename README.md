@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi，Welcome
 
-<!--
-**RednoteAI/RednoteAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cal at Xiaohongshu Hi lab （小红书基座大模型team）
 
-Here are some ideas to get you started:
+Interested in LLM and crypto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seeking talents to collaborate on dots.llm/vlm(pre-training、post-training and infra)
+
+
+
+Hiring！！！
+
+Don't hesitate to contact me, even if it's just to grab a coffee
+
+Wechat：kaikaikoa
+
+Email：zhongyong@xiaohongshu.com
+
+
+
+
+
