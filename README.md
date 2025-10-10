@@ -5,7 +5,7 @@
 
 I'm Cal at rednote-hilab （小红书基座大模型team）
 
-Interested in LLM and crypto
+Interested in LLM/VLM/VLA and crypto
 
 Seeking talents to collaborate on dots.llm/vlm(pre-training、post-training and infra)
 <br><br>
