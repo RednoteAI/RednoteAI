@@ -19,7 +19,7 @@ Wechat：kaikaikoa
 Email：zhongyong@xiaohongshu.com
 <br><br>
 <br><br>
-**About rednote-hilab Family**
+**About rednote-hilab Family**：https://github.com/rednote-hilab
 
 **Introduction**
 
