@@ -26,6 +26,7 @@ Email：zhongyong@xiaohongshu.com
 Founded in Shanghai in 2013, rednote is a platform where users capture and share their lives through photos, text, videos, and live streams, building an interactive community around shared interests. Guided by its mission to Inspire Lives, rednote is becoming a vibrant hub for diverse lifestyles and a trusted companion to millions. The rednote hilab team — where “hi” stands for humane intelligence — is dedicated to pushing the boundaries of AI by creating more diverse and balanced forms of intelligence, such as interpersonal, spatial-visual, and musical intelligence and more. Our ultimate goal is to make AI a truly natural and beneficial companion to humanity.
 
 **Research**
+
 dots.llm2/dots.vlm2：Due to force majeure, dots.llm2 and dots.vlm2 cannot be released in the short term, but our efforts will surely be recognized—after all, gold shines wherever it goes.
 
 dots.llm1：is a large-scale MoE model that activates 14B parameters out of a total of 142B parameters, delivering performance on par with state-of-the-art models. We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models.
