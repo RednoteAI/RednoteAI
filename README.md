@@ -27,7 +27,7 @@ Founded in Shanghai in 2013, rednote is a platform where users capture and share
 
 **Research**
 
-dots.llm2/dots.vlm2：Due to force majeure, dots.llm2 and dots.vlm2 cannot be released in the short term, but our efforts will surely be recognized—after all, gold shines wherever it goes.
+dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
 
 dots.llm1：is a large-scale MoE model that activates 14B parameters out of a total of 142B parameters, delivering performance on par with state-of-the-art models. We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models.
 https://github.com/rednote-hilab/dots.llm1
