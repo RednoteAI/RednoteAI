@@ -1,16 +1,7 @@
-<!-- Space + Dynamic style, no text on top image -->
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,20:0B1026,55:0F172A,100:1E3A8A&section=header&animation=twinkling" />
-</p>
+<!-- Space + Dynamic style, cleaned -->
 
 <p align="center">
   <img width="100%" src="https://media.giphy.com/media/vJrh2xG70L0SLwkMuX/giphy.gif" alt="space meteor" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RednoteAI&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8" />
-  <img height="165" src="https://streak-stats.demolab.com?user=RednoteAI&theme=transparent&hide_border=true&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8" />
 </p>
 
 <p align="center">
