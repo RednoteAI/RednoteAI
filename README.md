@@ -1,19 +1,11 @@
-<!-- Space + Dynamic style, text unchanged -->
+<!-- Space + Dynamic style, no text on top image -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:0B1026,50:0F172A,100:1E3A8A&text=REDNOTEAI%20%7C%20COSMIC%20PROFILE&fontColor=E2E8F0&fontSize=42&animation=twinkling&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,20:0B1026,55:0F172A,100:1E3A8A&section=header&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/space.gif" alt="space background"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=980&lines=%E2%98%84%EF%B8%8F+Meteor+Shower+Online;%E2%9C%A8+Cosmic+Particles+Streaming;%F0%9F%9A%80+RednoteAI+in+Deep+Space" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/vJrh2xG70L0SLwkMuX/giphy.gif" alt="meteor shower"/>
+  <img width="100%" src="https://media.giphy.com/media/vJrh2xG70L0SLwkMuX/giphy.gif" alt="space meteor" />
 </p>
 
 <p align="center">
@@ -56,5 +48,5 @@ dots.ocr：is a powerful, multilingual document parser that unifies layout detec
 dots.vlm1：is the first vision-language model in the dots model family. Built upon a 1.2 billion-parameter vision encoder and the DeepSeek V3 large language model (LLM), dots.vlm1 demonstrates strong multimodal understanding and reasoning capabilities. https://github.com/rednote-hilab/dots.vlm1
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1E3A8A,40:0F172A,100:020617" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,40:0F172A,100:020617" />
 </p>
