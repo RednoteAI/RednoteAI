@@ -8,7 +8,7 @@
 
 Hi，Welcome
 
-I'm Cal at rednote-hilab （小红书基座大模型团队）
+I'm Cal at 小红书dots （小红书基座大模型团队）
 
 Interested in LLM/VLM/VLA and crypto
 
