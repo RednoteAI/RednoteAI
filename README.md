@@ -37,6 +37,7 @@ waiting for 2026.xx.xx dots？
 
 2026.06 🔥 We have released dots.tts — 2B fully continuous AR TTS, with pretrained / self-corrective-aligned / MeanFlow-distilled checkpoints and full inference & fine-tuning code under Apache-2.0.
 =
+https://github.com/rednote-hilab/dots.tts
 
 2026.03.19 🚀 We have rebranded dots.ocr-1.5 as dots.mocr. For technical details, please refer to our paper. The model weights are available on Hugging Face: dots.mocr and dots.mocr-svg.
 =
