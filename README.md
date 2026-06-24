@@ -30,8 +30,10 @@ About Dots Family：https://github.com/rednote-hilab
 
 
 Research
+=
 
 waiting for 2026.xx.xx dots？
+=
 
 2026.06 🔥 We have released dots.tts — 2B fully continuous AR TTS, with pretrained / self-corrective-aligned / MeanFlow-distilled checkpoints and full inference & fine-tuning code under Apache-2.0.
 =
@@ -40,7 +42,10 @@ waiting for 2026.xx.xx dots？
 =
 
 2025.11 dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
+=
 
 dots.llm1：is a large-scale MoE model that activates 14B parameters out of a total of 142B parameters, delivering performance on par with state-of-the-art models. We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models. https://github.com/rednote-hilab/dots.llm1
+
 dots.ocr：is a powerful, multilingual document parser that unifies layout detection and content recognition within a single vision-language model while maintaining good reading order. Despite its compact 1.7B-parameter LLM foundation, it achieves state-of-the-art(SOTA) performance. https://github.com/rednote-hilab/dots.ocr
+
 dots.vlm1：is the first vision-language model in the dots model family. Built upon a 1.2 billion-parameter vision encoder and the DeepSeek V3 large language model (LLM), dots.vlm1 demonstrates strong multimodal understanding and reasoning capabilities. https://github.com/rednote-hilab/dots.vlm1
