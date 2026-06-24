@@ -7,8 +7,10 @@
 </p>
 
 Hi，Welcome
+=
 
 I'm Cal at 小红书dots （小红书基座大模型团队）
+=
 
 Interested in LLM/VLM/VLA and crypto
 
@@ -19,8 +21,10 @@ Hiring！！！
 Don't hesitate to contact me, even if it's just to grab a coffee
 
 Wechat：kaikaikoa
+=
 
 Email：zhongyong@xiaohongshu.com
+=
 
 About Dots Family：https://github.com/rednote-hilab
 
