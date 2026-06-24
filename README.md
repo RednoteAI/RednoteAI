@@ -30,6 +30,9 @@ The rednote hilab team — where “hi” stands for humane intelligence — is 
 
 Research
 
+[2026.06] 🔥 We have released dots.tts — 2B fully continuous AR TTS, with pretrained / self-corrective-aligned / MeanFlow-distilled checkpoints and full inference & fine-tuning code under Apache-2.0.
+
+
 dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
 
 dots.llm1：is a large-scale MoE model that activates 14B parameters out of a total of 142B parameters, delivering performance on par with state-of-the-art models. We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models. https://github.com/rednote-hilab/dots.llm1
