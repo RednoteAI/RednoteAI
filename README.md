@@ -22,7 +22,7 @@ Wechat：kaikaikoa
 
 Email：zhongyong@xiaohongshu.com
 
-About rednote-hilab Family：https://github.com/rednote-hilab
+About Dots Family：https://github.com/rednote-hilab
 
 Introduction
 Founded in Shanghai in 2013, rednote is a platform where users capture and share their lives through photos, text, videos, and live streams, building an interactive community around shared interests. Guided by its mission to Inspire Lives, rednote is becoming a vibrant hub for diverse lifestyles and a trusted companion to millions.
@@ -30,10 +30,15 @@ The rednote hilab team — where “hi” stands for humane intelligence — is 
 
 Research
 
-[2026.06] 🔥 We have released dots.tts — 2B fully continuous AR TTS, with pretrained / self-corrective-aligned / MeanFlow-distilled checkpoints and full inference & fine-tuning code under Apache-2.0.
+waiting for 2026.xx.xx dots？
 
+2026.06 🔥 We have released dots.tts — 2B fully continuous AR TTS, with pretrained / self-corrective-aligned / MeanFlow-distilled checkpoints and full inference & fine-tuning code under Apache-2.0.
 
-dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
+2026.03.19 🚀 We have rebranded dots.ocr-1.5 as dots.mocr. For technical details, please refer to our paper. The model weights are available on Hugging Face: dots.mocr and dots.mocr-svg.
+2025.10.31  🚀 We release dots.ocr.base, foundation VLM focus on OCR tasks, also the base model of dots.ocr. Try it out!
+2025.07.30  🚀 We release dots.ocr, — a multilingual documents parsing model based on 1.7b llm, with SOTA performance.
+
+2025.11 dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
 
 dots.llm1：is a large-scale MoE model that activates 14B parameters out of a total of 142B parameters, delivering performance on par with state-of-the-art models. We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models. https://github.com/rednote-hilab/dots.llm1
 dots.ocr：is a powerful, multilingual document parser that unifies layout detection and content recognition within a single vision-language model while maintaining good reading order. Despite its compact 1.7B-parameter LLM foundation, it achieves state-of-the-art(SOTA) performance. https://github.com/rednote-hilab/dots.ocr
