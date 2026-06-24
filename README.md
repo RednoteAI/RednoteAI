@@ -41,8 +41,9 @@ https://github.com/rednote-hilab/dots.tts
 
 2026.03.19 🚀 We have rebranded dots.ocr-1.5 as dots.mocr. For technical details, please refer to our paper. The model weights are available on Hugging Face: dots.mocr and dots.mocr-svg.
 =
+https://github.com/rednote-hilab/dots.ocr
 
-2025.11 dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
+2025.11 dots.llm2/dots.vlm2 will be presented in the form of a product.
 =
 
 dots.llm1：is a large-scale MoE model that activates 14B parameters out of a total of 142B parameters, delivering performance on par with state-of-the-art models. We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models. https://github.com/rednote-hilab/dots.llm1
