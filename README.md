@@ -30,10 +30,10 @@ Research
 waiting for 2026.xx.xx dots？
 
 2026.06 🔥 We have released dots.tts — 2B fully continuous AR TTS, with pretrained / self-corrective-aligned / MeanFlow-distilled checkpoints and full inference & fine-tuning code under Apache-2.0.
+=
 
 2026.03.19 🚀 We have rebranded dots.ocr-1.5 as dots.mocr. For technical details, please refer to our paper. The model weights are available on Hugging Face: dots.mocr and dots.mocr-svg.
-2025.10.31  🚀 We release dots.ocr.base, foundation VLM focus on OCR tasks, also the base model of dots.ocr. Try it out!
-2025.07.30  🚀 We release dots.ocr, — a multilingual documents parsing model based on 1.7b llm, with SOTA performance.
+=
 
 2025.11 dots.llm2/dots.vlm2 is on the way and will be presented in the form of a product.
 
